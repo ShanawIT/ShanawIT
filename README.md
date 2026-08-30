@@ -14,7 +14,7 @@
   - [Creating and Managing Local Users](https://github.com/ShanawIT/create-manage-local-users/blob/main/README.md)
   - [Troubleshooting Network Connectivity](https://github.com/ShanawIT/troubleshoot-network-connectivity-/blob/main/README.md)
   - [Managing Windows Updates](https://github.com/ShanawIT/manage-window-updates/blob/main/README.md)
-  - [Software Installation]()
+  - [Software Installation](https://github.com/ShanawIT/software-Installs/blob/main/README.md)
   - [Print Queue]()
   - [Credential Manager and Cache]()
   - [PowerShell]()
