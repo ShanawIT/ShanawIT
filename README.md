@@ -10,7 +10,7 @@
   - [Sign-In Logs](https://github.com/ShanawIT/sign-in-logs/blob/main/README.md)
   - [Authentication]([)](https://github.com/ShanawIT/Authentication-/blob/main/README.md)
 - <b>Deployment, Networking, Troubleshooting</b>
-  - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
+  - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ShanawIT/Resource-groups.-VM-and-RDP/blob/main/README.md)
   - [Creating and Managing Local Users]()
   - [Troubleshooting Network Connectivity]()
   - [Managing Windows Updates]()
