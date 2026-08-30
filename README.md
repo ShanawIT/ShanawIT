@@ -11,7 +11,7 @@
   - [Authentication](https://github.com/ShanawIT/Authentication-)
 - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ShanawIT/Resource-groups.-VM-and-RDP/blob/main/README.md)
-  - [Creating and Managing Local Users]()
+  - [Creating and Managing Local Users](https://github.com/ShanawIT/create-manage-local-users/blob/main/README.md)
   - [Troubleshooting Network Connectivity]()
   - [Managing Windows Updates]()
   - [Software Installation]()
