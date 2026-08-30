@@ -7,7 +7,7 @@
   - [Group Assignments](https://github.com/ShanawIT/group-assignments/blob/main/README.md)
   - [Identity Lifecycle](https://github.com/ShanawIT/Identify-lifecycle/blob/main/README.md)
   - [Audit Logs](https://github.com/ShanawIT/audit-logs/blob/main/README.md)
-  - [Sign-In Logs]()
+  - [Sign-In Logs](https://github.com/ShanawIT/sign-in-logs/blob/main/README.md)
   - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP]()
