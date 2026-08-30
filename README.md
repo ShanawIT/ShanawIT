@@ -13,7 +13,7 @@
   - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ShanawIT/Resource-groups.-VM-and-RDP/blob/main/README.md)
   - [Creating and Managing Local Users](https://github.com/ShanawIT/create-manage-local-users/blob/main/README.md)
   - [Troubleshooting Network Connectivity](https://github.com/ShanawIT/troubleshoot-network-connectivity-/blob/main/README.md)
-  - [Managing Windows Updates]()
+  - [Managing Windows Updates](https://github.com/ShanawIT/manage-window-updates/blob/main/README.md)
   - [Software Installation]()
   - [Print Queue]()
   - [Credential Manager and Cache]()
