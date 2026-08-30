@@ -6,7 +6,7 @@
   - [Role Assignments](https://github.com/ShanawIT/role-assignments-/blob/main/README.md)
   - [Group Assignments](https://github.com/ShanawIT/group-assignments/blob/main/README.md)
   - [Identity Lifecycle](https://github.com/ShanawIT/Identify-lifecycle/blob/main/README.md)
-  - [Audit Logs]()
+  - [Audit Logs](https://github.com/ShanawIT/audit-logs/blob/main/README.md)
   - [Sign-In Logs]()
   - [Authentication]()
 - <b>Deployment, Networking, Troubleshooting</b>
