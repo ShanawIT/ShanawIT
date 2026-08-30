@@ -15,7 +15,7 @@
   - [Troubleshooting Network Connectivity](https://github.com/ShanawIT/troubleshoot-network-connectivity-/blob/main/README.md)
   - [Managing Windows Updates](https://github.com/ShanawIT/manage-window-updates/blob/main/README.md)
   - [Software Installation](https://github.com/ShanawIT/software-Installs/blob/main/README.md)
-  - [Print Queue]()
+  - [Print Queue](https://github.com/ShanawIT/print-queue/blob/main/README.md)
   - [Credential Manager and Cache]()
   - [PowerShell]()
 - <b>Ticketing System</b>
