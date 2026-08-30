@@ -12,7 +12,7 @@
 - <b>Deployment, Networking, Troubleshooting</b>
   - [Creating Resource Group, Deploying Virtual Machine, and RDP](https://github.com/ShanawIT/Resource-groups.-VM-and-RDP/blob/main/README.md)
   - [Creating and Managing Local Users](https://github.com/ShanawIT/create-manage-local-users/blob/main/README.md)
-  - [Troubleshooting Network Connectivity]()
+  - [Troubleshooting Network Connectivity](https://github.com/ShanawIT/troubleshoot-network-connectivity-/blob/main/README.md)
   - [Managing Windows Updates]()
   - [Software Installation]()
   - [Print Queue]()
