@@ -17,6 +17,6 @@
   - [Software Installation](https://github.com/ShanawIT/software-Installs/blob/main/README.md)
   - [Print Queue](https://github.com/ShanawIT/print-queue/blob/main/README.md)
   - [Credential Manager and Cache](https://github.com/ShanawIT/Credential-managing-and-caches-/blob/main/README.md)
-  - [PowerShell]()
+  - [PowerShell](https://github.com/ShanawIT/Powershell/blob/main/README.md)
 - <b>Ticketing System</b>
   - [SpiceWorks Ticketing System]()
