@@ -22,3 +22,13 @@
   - [SpiceWorks Ticketing System](https://github.com/ShanawIT/spicework-ticket-system-/blob/main/README.md)
 
 <h1> Identify and Access Management:  </h1>
+ 
+- <b>Okta
+   - [Import Users from Microsoft Entra ID to Okta]()
+   - [Enrollment Provisioning in Okta]()
+   - [Create Users Manually in Okta]()
+   - [Adding Attributes to Users]()
+   - [Creating Groups in Okta]()
+   - [Attribute-Based Access Control (ABAC) Rules in Okta]()
+   - [Device Management]()
+   - [Audit Logs in Okta]()
