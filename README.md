@@ -24,7 +24,7 @@
 <h1> Identify and Access Management:  </h1>
  
 - <b>Okta
-   - [Import Users from Microsoft Entra ID to Okta]()
+   - [Import Users from Microsoft Entra ID to Okta](https://github.com/ShanawIT/Import-Users-from-okta)
    - [Enrollment Provisioning in Okta]()
    - [Create Users Manually in Okta]()
    - [Adding Attributes to Users]()
