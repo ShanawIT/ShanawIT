@@ -31,4 +31,4 @@
    - [Creating Groups in Okta](https://github.com/ShanawIT/Create-Groups/blob/main/README.md)
    - [Attribute-Based Access Control (ABAC) Rules in Okta](https://github.com/ShanawIT/Attributes-Based-Access-/blob/main/README.md)
    - [Device Management](https://github.com/ShanawIT/Device-Management)
-   - [Audit Logs in Okta]()
+   - [Audit Logs in Okta](https://github.com/ShanawIT/Audit-Logs-okta/blob/main/README.md)
