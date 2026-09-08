@@ -26,7 +26,7 @@
 - <b>Okta
    - [Import Users from Microsoft Entra ID to Okta](https://github.com/ShanawIT/Import-Users-from-okta)
    - [Enrollment Provisioning in Okta](https://github.com/ShanawIT/Enroll-provisions)
-   - [Create Users Manually in Okta](https://github.com/ShanawIT/Create-Groups/blob/main/README.md)
+   - [Create Users Manually in Okta](https://github.com/ShanawIT/Create-User-Manually)
    - [Adding Attributes to Users](https://github.com/ShanawIT/Add-Attributes-/blob/main/README.md)
    - [Creating Groups in Okta](https://github.com/ShanawIT/Create-Groups/blob/main/README.md)
    - [Attribute-Based Access Control (ABAC) Rules in Okta]()
