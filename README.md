@@ -30,5 +30,5 @@
    - [Adding Attributes to Users](https://github.com/ShanawIT/Add-Attributes-/blob/main/README.md)
    - [Creating Groups in Okta](https://github.com/ShanawIT/Create-Groups/blob/main/README.md)
    - [Attribute-Based Access Control (ABAC) Rules in Okta](https://github.com/ShanawIT/Attributes-Based-Access-/blob/main/README.md)
-   - [Device Management]()
+   - [Device Management](https://github.com/ShanawIT/Device-Management)
    - [Audit Logs in Okta]()
